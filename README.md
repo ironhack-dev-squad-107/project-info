@@ -25,28 +25,29 @@ You and the Ironhack staff will also vote for your favorites
 and award three medals: Bronze 🥉, Silver 🥈, and Gold 🥇.
 
 Here are some examples of past projects:
-- [Subway Frotteur](https://nadiahachemi.github.io/module1-project/)
-- [Love Across Borders](https://marieglr.github.io/gameProject/)
-- [Galaxy Cats](https://moonchie.github.io/galaxy_cats/)
-- [Ironfight](https://manelleg.github.io/Game-project/)
+- [The Black Sheep](https://constancervse.github.io/first-project/)
+- [Tap Tap Revolution](https://abisummers.com/project-one/)
+- [Brick Breaker](https://paulabarnou37.github.io/BrickGame-project/)
+- [Back to School](https://emmanuellejaldorau.github.io/game-project/)
+- [Find The Treasure](https://juliemnrd.github.io/Project1---game/)
+- [Yoda's Wisdom Test](https://lucamerzi.github.io/IH_module1_project/)
 
 
 Schedule
 --------
-### Monday - August 20th ###
+### Monday - October 29th ###
 - **Coding Kata** - [Sort a 2D array](https://www.codewars.com/kata/sort-a-2d-array)
 
-### Tuesday - August 21st ###
-- **Coding Kata** - [Number of anagrams](https://www.codewars.com/kata/number-of-anagrams-in-an-array-of-words)
+### Tuesday - October 30th ###
 - **16:00h** - _Presentation Practice #1_: About You & Your Project <br>
   For your first presentation practice
   you should create your initial presentation structure. <br>
   [See Presentation Section](#presentations)
 
-### Wednesday - August 22nd ###
-- **Coding Kata** - [TGI Friday!!](https://www.codewars.com/kata/tgi-friday)
+### Wednesday - October 31st ###
+- **Coding Kata** - [Number of anagrams](https://www.codewars.com/kata/number-of-anagrams-in-an-array-of-words)
 
-### Thursday - August 23rd ###
+### Thursday - November 1st ###
 - **16:00h** - _Presentation Practice #2_: Demo <br>
   For the second presentation practice
   you should incorporate a demo of your live app at the end of your talk.
@@ -54,13 +55,14 @@ Schedule
   but you should make adjustments based on feedback from the previous practice. <br>
   [See Demo Tips](#demo-tips)
 
-### Friday - August 24th ###
+### Friday - November 2nd ###
 - **16:00h** - **Project #1 Presentations** <br>
-  Finally, on Friday it's time for your final presentation.
+  Finally, on Friday it's time for your real presentation.
   You will present your projects to the staff and other students.
   Remember to dress at least one degree nicer than normal.
 
 ### Bonus Kata ###
+- [TGI Friday!!](https://www.codewars.com/kata/tgi-friday)
 - [Clocky Mc Clock-Face](https://www.codewars.com/kata/clocky-mc-clock-face)
 
 

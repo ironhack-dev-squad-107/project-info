@@ -33,10 +33,11 @@ and award three medals: Bronze 🥉, Silver 🥈, and Gold 🥇.
 **Medalists get to present in the Hackshow**, our public event for showcasing students.
 
 Here are some examples of past projects:
-- [My Study Buddy](http://www.my-study-buddy.co/)
-- [Dev Day](https://dev-day33.herokuapp.com/)
-- [Champions in the Arena](http://www.championsinthearena.co/)
-- [E-levate](http://www.e-levate.co/)
+- [Pairs in Paris](https://pairs-in-paris.herokuapp.com/)
+- [Prism](https://customreactapp.herokuapp.com/)
+- [Napply](https://napply.herokuapp.com/)
+- [Recyclez-moi](https://recycleapp.herokuapp.com/)
+- [Cool Coloc](https://cool-coloc.herokuapp.com/)
 
 Looking for Project #1 or #2? See the [Project #1 document](project1.md)
 or the [Project #2 document](project2.md).

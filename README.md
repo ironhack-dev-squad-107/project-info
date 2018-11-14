@@ -34,6 +34,9 @@ Looking for Project #1? See the [Project #1 document](project1.md).
 
 Schedule
 --------
+Under construction...
+
+<!--
 ### Monday - September 10th ###
 - **Coding Kata** - [Persistent Bugger](https://www.codewars.com/kata/persistent-bugger)
 - **14:00h** - _Lesson_: Google Maps (optional)	
@@ -67,6 +70,7 @@ Schedule
 - [Find The Missing Letter](https://www.codewars.com/kata/find-the-missing-letter)
 - [Playing With Digits](https://www.codewars.com/kata/playing-with-digits)
 - [Street Fighter 2 - Character Selection](https://www.codewars.com/kata/street-fighter-2-character-selection)
+-->
 
 
 Updated Technical Requirements
@@ -78,7 +82,7 @@ You app must:
 3. **Have 2 models _or more_**.
    Having one for users is a no-brainer.
    The other one(s) should represent the main functionality of your app.
-   Don't force it if having more thant two models doesn't make sense.
+   Don't force it if having more than two models doesn't make sense.
 4. **Have validation on its models** with feedback for users
    if their submission is invalid.
 5. **Include sign up, log in & log out functionality**

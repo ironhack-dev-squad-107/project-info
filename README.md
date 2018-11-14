@@ -24,10 +24,10 @@ You and the Ironhack staff will also vote for your favorites
 and award three medals: Bronze 🥉, Silver 🥈, and Gold 🥇.
 
 Here are some examples of past projects:
-- [sitepalette](https://site-palette.herokuapp.com/)
-- [Potluck](https://easypotluck.herokuapp.com/)
-- [IRONSTALK](https://ironstalk.herokuapp.com/)
-- [Construct](https://construct-project.herokuapp.com/)
+- [Buildit](https://buildit-create-your-website.herokuapp.com/)
+- [Wedding Matcher](https://the-wedding-matcher.herokuapp.com/)
+- [Stone Power](https://project2-lithotherapy.herokuapp.com/)
+- [Tutoring Web App](https://saafs-app.herokuapp.com/)
 
 Looking for Project #1? See the [Project #1 document](project1.md).
 

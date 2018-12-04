@@ -22,11 +22,11 @@ This is where you get to show it all off!
 
 Your 3rd and final project
 will be a **single-page Web application** using the **MERN stack**
-(MongoDB, Express, React & Node.js).
-You will also practice some **UX and Agile methodologies**.
+(MongoDB, Express, React & Node.js)
+that **you will work on in teams of three**.
 
-For your final projects, **you will work in teams of three**.
-Each of you will also receive a promo code for a **free .CO domain** for your apps.
+You will also practice some **UX and Agile methodologies** by following
+[the final project Trello board](https://trello.com/b/vnXgh1Y8/trello-template-final-project).
 
 As usual, you and the Ironhack staff will vote for your favorites
 and award three medals: Bronze 🥉, Silver 🥈, and Gold 🥇.
@@ -46,20 +46,20 @@ or the [Project #2 document](project2.md).
 Schedule
 --------
 
-### Wednesday - September 26th ###
+### Wednesday - December 5th ###
 - Concept Test
 - Database Schema Planning
 
-### Thursday - September 27th ###
+### Thursday - December 6th ###
 - Paper Prototype Test
 
-### Friday - September 28th ###
+### Friday - December 7th ###
 - Coding Kata - [Pete the Baker](https://www.codewars.com/kata/pete-the-baker/)
 
-### Monday - October 1st ###
+### Monday - December 10th ###
 - **14:00h** - _Lesson_: Deploying Your React App
 
-### Tuesday - October 2nd ###
+### Tuesday - December 11th ###
 - MVP Test
 - **16:00h** - _Presentation Practice #1_: About You & Your Project <br>
   For your first presentation practice
@@ -67,7 +67,7 @@ Schedule
   Your slides need to talk about **you and your project idea**. <br>
   [See Presentation Section](#presentations)
 
-### Thursday - October 4th ###
+### Thursday - December 13th ###
 - **16:00h** - _Presentation Practice #2_: Demo <br>
   For the second presentation practice
   you should incorporate a demo of your live app at the end of your talk.
@@ -76,14 +76,14 @@ Schedule
   [See Demo Tips](#demo-tips)
 
 
-### Friday - October 5th ###
+### Friday - December 14th ###
 - **16:00h** - **Internal Hackshow: WebDev Final Presentations** <br>
   Finally, on Friday it's time for your **Ironhack project presentation**.
   You will present your projects to the staff and other students.
   Remember to dress at least one degree nicer than normal.
   **Medalists will present at the Hackshow!**
 
-### Monday - October 8th ###
+### Monday - October 17th ###
 - **18:30h** - **Hackshow** <br>
   Medalists of the Internal Hackshow will present their projects to the public.
   The event will be at [WeWork La Fayette](https://goo.gl/maps/ZBhxCyUMeZ62)
@@ -117,21 +117,16 @@ You app must:
    One for your React application and the other for your Express API backend.
 8. Have at least **1 commit per day** that you worked on it.
 9. **Be deployed online** using Heroku, so anybody could use your app.
-10. **Be connected to your free .co domain**.
-    Ironhack will send you an email with your promo code
-    and instructions on how to redeem it for your free .co domain.
 
 Responsive design **is not a requirement**. <br>
-Wireframes **are not a requirement**. <br>
 Full CRUD **is not a requirement**.
 
 
 Updated Deliverables
 --------------------
 - A **working MERN stack application, built by you** that runs on a server.
-- A **deploy of your app** with a .co domain.
+- A **deploy of your app** on Heroku.
 - The **two URLs** of your **GitHub repositories** (React & Express).
-- The URL of the **live app on your .co domain**.
 - The URL of the **React app**.
 - The URL of the **slides for your app's presentation**.
 - Your **GitHub repos** should have

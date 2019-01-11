@@ -1,20 +1,18 @@
-Project #3: MERN Web Application
-================================
+# Project #3: MERN Web Application
 
-Table of Contents
------------------
+## Table of Contents
+
 1. [Introduction](#introduction)
 2. [Schedule](#schedule)
 3. [Updated Technical Requirements](#updated-technical-requirements)
 4. [Updated Deliverables](#updated-deliverables)
 5. [Presentations](#presentations)
-    * [General Information](#presentations)
-    * [Presentation Structure](#presentation-structure)
-    * [Demo Tips](#demo-tips)
+   - [General Information](#presentations)
+   - [Presentation Structure](#presentation-structure)
+   - [Demo Tips](#demo-tips)
 
+## Introduction
 
-Introduction
-------------
 We're almost at the end of the journey.
 In our time together,
 we've looked at tons of different programming concepts and techniques.
@@ -33,6 +31,7 @@ and award three medals: Bronze 🥉, Silver 🥈, and Gold 🥇.
 **Medalists get to present in the Hackshow**, our public event for showcasing students.
 
 Here are some examples of past projects:
+
 - [Pairs in Paris](https://pairs-in-paris.herokuapp.com/)
 - [Prism](https://customreactapp.herokuapp.com/)
 - [Napply](https://napply.herokuapp.com/)
@@ -42,24 +41,27 @@ Here are some examples of past projects:
 Looking for Project #1 or #2? See the [Project #1 document](project1.md)
 or the [Project #2 document](project2.md).
 
+## Schedule
 
-Schedule
---------
+### Wednesday - December 5th
 
-### Wednesday - December 5th ###
 - Concept Test
 - Database Schema Planning
 
-### Thursday - December 6th ###
+### Thursday - December 6th
+
 - Paper Prototype Test
 
-### Friday - December 7th ###
+### Friday - December 7th
+
 - Coding Kata - [Pete the Baker](https://www.codewars.com/kata/pete-the-baker/)
 
-### Monday - December 10th ###
+### Monday - December 10th
+
 - **14:00h** - _Lesson_: Deploying Your React App
 
-### Tuesday - December 11th ###
+### Tuesday - December 11th
+
 - MVP Test
 - **16:00h** - _Presentation Practice #1_: About You & Your Project <br>
   For your first presentation practice
@@ -67,7 +69,8 @@ Schedule
   Your slides need to talk about **you and your project idea**. <br>
   [See Presentation Section](#presentations)
 
-### Thursday - December 13th ###
+### Thursday - December 13th
+
 - **16:00h** - _Presentation Practice #2_: Demo <br>
   For the second presentation practice
   you should incorporate a demo of your live app at the end of your talk.
@@ -75,29 +78,30 @@ Schedule
   but you should make adjustments based on feedback from the previous practice. <br>
   [See Demo Tips](#demo-tips)
 
+### Friday - December 14th
 
-### Friday - December 14th ###
 - **16:00h** - **Internal Hackshow: WebDev Final Presentations** <br>
   Finally, on Friday it's time for your **Ironhack project presentation**.
   You will present your projects to the staff and other students.
   Remember to dress at least one degree nicer than normal.
   **Medalists will present at the Hackshow!**
 
-### Monday - October 17th ###
+### Monday - October 17th
+
 - **18:30h** - **Hackshow** <br>
   Medalists of the Internal Hackshow will present their projects to the public.
   The event will be at [WeWork La Fayette](https://goo.gl/maps/ZBhxCyUMeZ62)
   and there will be snacks and drinks!
 
-### Bonus Katas ###
+### Bonus Katas
+
 - [All That Is Open Must Be Closed](https://www.codewars.com/kata/all-that-is-open-must-be-closed-dot-dot-dot)
 - [Directions Reduction](https://www.codewars.com/kata/directions-reduction/)
 - [Scramblies](https://www.codewars.com/kata/scramblies/)
 - [Sum of Pairs](https://www.codewars.com/kata/sum-of-pairs/)
 
+## Updated Technical Requirements
 
-Updated Technical Requirements
-------------------------------
 You app must:
 
 1. **Use React** for all of the user-facing parts of your application.
@@ -121,9 +125,8 @@ You app must:
 Responsive design **is not a requirement**. <br>
 Full CRUD **is not a requirement**.
 
+## Updated Deliverables
 
-Updated Deliverables
---------------------
 - A **working MERN stack application, built by you** that runs on a server.
 - A **deploy of your app** on Heroku.
 - The **two URLs** of your **GitHub repositories** (React & Express).
@@ -137,56 +140,59 @@ Updated Deliverables
 Wireframes **are not a deliverable**. <br>
 User stories **are not a deliverable**.
 
+## Presentations
 
-Presentations
--------------
 Project #3's presentation will focus more on you again, since you may be presenting to the public later.
 
-### Format ###
+### Format
+
 - Talking with Slides: **3 minutes**
 - Demo: **2 minutes**
 - Total: **5 minutes**
 
-### Attire ###
+### Attire
+
 - Dress nicely for this and all final project presentations
   (last day of each project's time).
 - Dress at least **one degree more elegantly** than you usually dress for class.
 - _Examples_:
-  * If you wear t-shirts every day, wear a button-down shirt.
-  * If you wear jeans every day, wear some slacks.
-  * If you wear sneakers every day, wear nicer shoes.
+  - If you wear t-shirts every day, wear a button-down shirt.
+  - If you wear jeans every day, wear some slacks.
+  - If you wear sneakers every day, wear nicer shoes.
 
-### Slide Applications ###
+### Slide Applications
+
 - All presentations will be done **from a staff member's computer**,
   so **your slides need to be online**.
 - PowerPoint files, Keynote files or files of any kind **will not be accepted**.
 - Suggested online slide applications:
-  * [Slides](https://slides.com/)
-  * [Prezi](https://prezi.com/)
-  * [Google Slides](https://www.google.com/slides/about/)
+  - [Slides](https://slides.com/)
+  - [Prezi](https://prezi.com/)
+  - [Google Slides](https://www.google.com/slides/about/)
 
+### Presentation Structure
 
-### Presentation Structure ###
 1. **Title Slide** (1 slide): your project's name & your name
 2. **About Me** (1-2 slides):
-    * Where are you from?
-    * What are some interesting facts about you? (hobbies, travels, etc.)
+   - Where are you from?
+   - What are some interesting facts about you? (hobbies, travels, etc.)
 3. **Project Elevator Pitch** (1-2 slides):
-    * What is your project?
-    * How does it work?
-    * Why did you choose it?
+   - What is your project?
+   - How does it work?
+   - Why did you choose it?
 4. **Technical Challenge** (1-2 slides):
-    * What was **the most important** technical challenge you faced?
-    * How did you overcome that challenge?
+   - What was **the most important** technical challenge you faced?
+   - How did you overcome that challenge?
 5. **Big Mistake** (1-2 slides):
-    * What was **the biggest** mistake you made during this project?
-    * What did you learn from it?
+   - What was **the biggest** mistake you made during this project?
+   - What did you learn from it?
 6. **Demo Slide** (1 slide): literally says "DEMO"
    with **a link** to your project so you can open it easily
 7. **Closing Slide** (1 slide): your project's name, your name & a _"Thank You"_
 8. **Total**: 7-11 slides
 
-#### Presentation Structure Notes ####
+#### Presentation Structure Notes
+
 - **Don't** include a slide just for the technologies.
 - **Don't** include any code in your slides. Nobody will read it.
 - **Don't** include a slide for GitHub graphs.
@@ -196,7 +202,8 @@ Project #3's presentation will focus more on you again, since you may be present
   feel free to do so.
   This suggested structure is mostly for people who don't know what to do.
 
-### Demo Tips ###
+### Demo Tips
+
 1. Plan what you are going to demo and **practice it on the live site**.
    That way you won't be surprised if something breaks on the live version.
 2. **Deploy early** so you can squash bugs.

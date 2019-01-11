@@ -3,10 +3,9 @@
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Schedule](#schedule)
-3. [Updated Technical Requirements](#updated-technical-requirements)
-4. [Updated Deliverables](#updated-deliverables)
-5. [Presentations](#presentations)
+2. [Updated Technical Requirements](#updated-technical-requirements)
+3. [Updated Deliverables](#updated-deliverables)
+4. [Presentations](#presentations)
    - [General Information](#presentations)
    - [Presentation Structure](#presentation-structure)
    - [Demo Tips](#demo-tips)
@@ -30,44 +29,6 @@ Here are some examples of past projects:
 - [Back to School](https://emmanuellejaldorau.github.io/game-project/)
 - [Find The Treasure](https://juliemnrd.github.io/Project1---game/)
 - [Yoda's Wisdom Test](https://lucamerzi.github.io/IH_module1_project/)
-
-## Schedule
-
-### Monday - October 29th
-
-- **Coding Kata** - [Sort a 2D array](https://www.codewars.com/kata/sort-a-2d-array)
-
-### Tuesday - October 30th
-
-- **16:00h** - _Presentation Practice #1_: About You & Your Project <br>
-  For your first presentation practice
-  you should create your initial presentation structure. <br>
-  [See Presentation Section](#presentations)
-
-### Wednesday - October 31st
-
-- **Coding Kata** - [Number of anagrams](https://www.codewars.com/kata/number-of-anagrams-in-an-array-of-words)
-
-### Thursday - November 1st
-
-- **16:00h** - _Presentation Practice #2_: Demo <br>
-  For the second presentation practice
-  you should incorporate a demo of your live app at the end of your talk.
-  Your presentation structure should be more or less the same,
-  but you should make adjustments based on feedback from the previous practice. <br>
-  [See Demo Tips](#demo-tips)
-
-### Friday - November 2nd
-
-- **16:00h** - **Project #1 Presentations** <br>
-  Finally, on Friday it's time for your real presentation.
-  You will present your projects to the staff and other students.
-  Remember to dress at least one degree nicer than normal.
-
-### Bonus Kata
-
-- [TGI Friday!!](https://www.codewars.com/kata/tgi-friday)
-- [Clocky Mc Clock-Face](https://www.codewars.com/kata/clocky-mc-clock-face)
 
 ## Updated Technical Requirements
 

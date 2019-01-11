@@ -23,12 +23,12 @@ and award three medals: Bronze 🥉, Silver 🥈, and Gold 🥇.
 
 Here are some examples of past projects:
 
-- [The Black Sheep](https://constancervse.github.io/first-project/)
-- [Tap Tap Revolution](https://abisummers.com/project-one/)
-- [Brick Breaker](https://paulabarnou37.github.io/BrickGame-project/)
-- [Back to School](https://emmanuellejaldorau.github.io/game-project/)
-- [Find The Treasure](https://juliemnrd.github.io/Project1---game/)
-- [Yoda's Wisdom Test](https://lucamerzi.github.io/IH_module1_project/)
+- [Is This Art?](https://chloehd.github.io/IsThisArt/)
+- [Guess Who](https://laurastromboni.github.io/guesswho/)
+- [Sant-A-Letter](https://donedeal0.github.io/santagame/)
+- [Iron.io](https://griev04.github.io/Iron.io/)
+- [Mastermind](https://geoffroybag.github.io/mastermind/)
+- [Dream Catcher](https://mathispnz.github.io/My-Game-Dream-Catcher/)
 
 ## Updated Technical Requirements
 

@@ -3,10 +3,9 @@
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Schedule](#schedule)
-3. [Updated Technical Requirements](#updated-technical-requirements)
-4. [Updated Deliverables](#updated-deliverables)
-5. [Presentations](#presentations)
+2. [Updated Technical Requirements](#updated-technical-requirements)
+3. [Updated Deliverables](#updated-deliverables)
+4. [Presentations](#presentations)
    - [General Information](#presentations)
    - [Presentation Structure](#presentation-structure)
    - [Demo Tips](#demo-tips)
@@ -30,46 +29,6 @@ Here are some examples of past projects:
 
 Looking for Project #1? See the [Project #1 document](project1.md).
 
-## Schedule
-
-Under construction...
-
-<!--
-### Monday - September 10th ###
-- **Coding Kata** - [Persistent Bugger](https://www.codewars.com/kata/persistent-bugger)
-- **14:00h** - _Lesson_: Google Maps (optional)
-
-### Tuesday - September 11th ###
-- **14:00h** - _Lesson_: File Uploads (optional)
-- **16:00h** - _Presentation Practice #1_: About Your Project <br>
-  For your first presentation practice
-  you should create your initial presentation structure.
-  Your slides only need to talk about **your project idea**. <br>
-  [See Presentation Section](#presentations)
-
-### Wednesday - September 12th ###
-- **14:00h** - _Lesson_: Sending Emails (optional)
-
-### Thursday - September 13th ###
-- **16:00h** - _Presentation Practice #2_: Demo <br>
-  For the second presentation practice
-  you should incorporate a demo of your live app at the end of your talk.
-  Your presentation structure should be more or less the same,
-  but you should make adjustments based on feedback from the previous practice. <br>
-  [See Demo Tips](#demo-tips)
-
-### Friday - September 14th ###
-- **16:00h** - **Project #2 Presentations** <br>
-  Finally, on Friday it's time for your final presentation.
-  You will present your projects to the staff and other students.
-  Remember to dress at least one degree nicer than normal.
-
-### Bonus Katas ###
-- [Find The Missing Letter](https://www.codewars.com/kata/find-the-missing-letter)
-- [Playing With Digits](https://www.codewars.com/kata/playing-with-digits)
-- [Street Fighter 2 - Character Selection](https://www.codewars.com/kata/street-fighter-2-character-selection)
--->
-
 ## Updated Technical Requirements
 
 You app must:
@@ -80,11 +39,10 @@ You app must:
    Having one for users is a no-brainer.
    The other one(s) should represent the main functionality of your app.
    Don't force it if having more than two models doesn't make sense.
-4. **Have validation on its models** with feedback for users
-   if their submission is invalid.
+4. Have **validation rules** on its models.
 5. **Include sign up, log in & log out functionality**
    with encrypted passwords (and/or social logins)
-   and authorization (logged in users can do extra things).
+   and authorization (logged-in users can do extra things).
 6. **Have routes for all of CRUD** for models other than users.
    There should create, read, update and delete features
    even if they aren't all for the same model.

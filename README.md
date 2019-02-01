@@ -22,10 +22,10 @@ and award three medals: Bronze 🥉, Silver 🥈, and Gold 🥇.
 
 Here are some examples of past projects:
 
-- [Buildit](https://buildit-create-your-website.herokuapp.com/)
-- [Wedding Matcher](https://the-wedding-matcher.herokuapp.com/)
-- [Stone Power](https://project2-lithotherapy.herokuapp.com/)
-- [Tutoring Web App](https://saafs-app.herokuapp.com/)
+- [Centaur Club](https://centaur-club.herokuapp.com/)
+- [O'VINO](https://ovino.herokuapp.com/)
+- [Slack](https://slacklone.herokuapp.com/)
+- [Vayuna](https://vayuna.herokuapp.com/)
 
 Looking for Project #1? See the [Project #1 document](project1.md).
 

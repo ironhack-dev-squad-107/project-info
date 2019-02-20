@@ -3,10 +3,9 @@
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Schedule](#schedule)
-3. [Updated Technical Requirements](#updated-technical-requirements)
-4. [Updated Deliverables](#updated-deliverables)
-5. [Presentations](#presentations)
+2. [Updated Technical Requirements](#updated-technical-requirements)
+3. [Updated Deliverables](#updated-deliverables)
+4. [Presentations](#presentations)
    - [General Information](#presentations)
    - [Presentation Structure](#presentation-structure)
    - [Demo Tips](#demo-tips)
@@ -40,65 +39,6 @@ Here are some examples of past projects:
 
 Looking for Project #1 or #2? See the [Project #1 document](project1.md)
 or the [Project #2 document](project2.md).
-
-## Schedule
-
-### Wednesday - December 5th
-
-- Concept Test
-- Database Schema Planning
-
-### Thursday - December 6th
-
-- Paper Prototype Test
-
-### Friday - December 7th
-
-- Coding Kata - [Pete the Baker](https://www.codewars.com/kata/pete-the-baker/)
-
-### Monday - December 10th
-
-- **14:00h** - _Lesson_: Deploying Your React App
-
-### Tuesday - December 11th
-
-- MVP Test
-- **16:00h** - _Presentation Practice #1_: About You & Your Project <br>
-  For your first presentation practice
-  you should create your initial presentation structure. <br>
-  Your slides need to talk about **you and your project idea**. <br>
-  [See Presentation Section](#presentations)
-
-### Thursday - December 13th
-
-- **16:00h** - _Presentation Practice #2_: Demo <br>
-  For the second presentation practice
-  you should incorporate a demo of your live app at the end of your talk.
-  Your presentation structure should be more or less the same,
-  but you should make adjustments based on feedback from the previous practice. <br>
-  [See Demo Tips](#demo-tips)
-
-### Friday - December 14th
-
-- **16:00h** - **Internal Hackshow: WebDev Final Presentations** <br>
-  Finally, on Friday it's time for your **Ironhack project presentation**.
-  You will present your projects to the staff and other students.
-  Remember to dress at least one degree nicer than normal.
-  **Medalists will present at the Hackshow!**
-
-### Monday - October 17th
-
-- **18:30h** - **Hackshow** <br>
-  Medalists of the Internal Hackshow will present their projects to the public.
-  The event will be at [WeWork La Fayette](https://goo.gl/maps/ZBhxCyUMeZ62)
-  and there will be snacks and drinks!
-
-### Bonus Katas
-
-- [All That Is Open Must Be Closed](https://www.codewars.com/kata/all-that-is-open-must-be-closed-dot-dot-dot)
-- [Directions Reduction](https://www.codewars.com/kata/directions-reduction/)
-- [Scramblies](https://www.codewars.com/kata/scramblies/)
-- [Sum of Pairs](https://www.codewars.com/kata/sum-of-pairs/)
 
 ## Updated Technical Requirements
 

@@ -32,11 +32,10 @@ our public event for showcasing students.
 
 Here are some examples of past projects:
 
-- [Pairs in Paris](https://pairs-in-paris.herokuapp.com/)
-- [Prism](https://customreactapp.herokuapp.com/)
-- [Napply](https://napply.herokuapp.com/)
-- [Recyclez-moi](https://recycleapp.herokuapp.com/)
-- [Cool Coloc](https://cool-coloc.herokuapp.com/)
+- [Airbnb Clone](https://iron-airbnb.herokuapp.com/)
+- [.formo](https://formo.herokuapp.com/)
+- [The Pro Shop](https://theshoppro.herokuapp.com/)
+- [Terra Firma](https://terrafirma.herokuapp.com/)
 
 Looking for Project #1 or #2? See the [Project #1 document](project1.md)
 or the [Project #2 document](project2.md).

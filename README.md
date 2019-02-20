@@ -27,7 +27,8 @@ You will also practice some **UX and Agile methodologies** by following
 
 As usual, you and the Ironhack staff will vote for your favorites
 and award three medals: Bronze 🥉, Silver 🥈, and Gold 🥇.
-**Medalists get to present in the Hackshow**, our public event for showcasing students.
+**Medalists get to present in the Hackshow**,
+our public event for showcasing students.
 
 Here are some examples of past projects:
 
@@ -45,18 +46,17 @@ or the [Project #2 document](project2.md).
 You app must:
 
 1. **Use React** for all of the user-facing parts of your application.
-2. **Use Express** for your **API backend**
+2. **Use Express** for the **API backend**
    that your React app will communicate with.
 3. **Use Mongoose** for models and database communication.
 4. **Have 3 models _or more_**.
    Having one for users is a no-brainer.
    The other two should represent the main functionality of your app.
    Don't force it if having a 3rd model doesn't make sense.
-5. **Have validation on its models** with feedback for users
-   if their submission is invalid.
+5. Have **validation rules** on its models.
 6. **Include sign up, log in & log out functionality**
    with encrypted passwords (or social logins)
-   and authorization (logged in users can do extra things).
+   and authorization (logged-in users can do extra things).
 7. **Have _two_ repos on GitHub**.
    One for your React application and the other for your Express API backend.
 8. Have at least **1 commit per day** that you worked on it.
